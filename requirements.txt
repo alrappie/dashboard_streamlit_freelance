@@ -6,3 +6,5 @@ numpy
 joblib
 matplotlib
 seaborn
+openpyxl
+xgboost
