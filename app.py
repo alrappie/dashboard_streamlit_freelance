@@ -17,9 +17,6 @@ import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 import warnings
 warnings.filterwarnings('ignore')
-import base64
-from PIL import Image
-import os
 
 st.set_page_config(
     page_title="GarudaTV Analytics Dashboard",
